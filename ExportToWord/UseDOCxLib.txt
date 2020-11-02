@@ -1,0 +1,2 @@
+﻿https://www.c-sharpcorner.com/article/generate-word-document-using-c-sharp/ 
+pozri sample na: https://xceed.com/xceed-words-for-net/

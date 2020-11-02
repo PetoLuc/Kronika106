@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Kronika106.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ForumAutoRefrestInterval" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">20000</Value>
+    </Setting>
+    <Setting Name="AdminEmails" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">lexdetva@gmail.com;plucansky@gmail.com</Value>
+    </Setting>
+    <Setting Name="FullWordSearch" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="EnableStatistic" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
