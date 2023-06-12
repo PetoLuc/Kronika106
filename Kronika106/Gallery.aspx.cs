@@ -4,21 +4,18 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Text;
-using System.Web;
 using System.Web.UI;
-using System.Web.UI.WebControls;
 
 namespace Kronika106
 {
     public partial class Gallery : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
-        {            
+        {
             if (!IsPostBack)
             {
-                Navigator.GenerateNavigation(Page.Master);               
-            }           
+                Navigator.GenerateNavigation(Page.Master);
+            }
         }
 
         public List<Kronika106.FileSystemModel.Year> LoadYears()
